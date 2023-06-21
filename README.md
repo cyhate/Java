@@ -1,2 +1,12 @@
-# Java
-My first Java Programming
+# University Project ~ Andreas
+==================================================
+
+Java - My first Java Programming
+
+=====================================
+
+1. Exercises
+2. ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ
+
+
+======================================
